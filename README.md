@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/turtle.png" alt="turtle" with="150" />
+  <img src="assets/turtle.png" alt="turtle" width="150" />
 </p>
 
 # Soluciones Advent of Code 2023
